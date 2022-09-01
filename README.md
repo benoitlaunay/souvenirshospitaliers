@@ -30,3 +30,7 @@ Script Powershell extrayant les données d’annuaire de l’*Active Directory*.
 - annexes personalTitle.csv
 - annexes department.csv
 - annexes comptes incohérents.csv
+
+## rpps.ps1
+
+script Powershell pour récupérer des listes de praticiens depuis les listes publiques mises à disposition par le ministère de la Santé. Voir les commentaires présents dans le fichier pour plus d’information sur les filtres et variables
