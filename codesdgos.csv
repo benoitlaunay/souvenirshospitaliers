@@ -1,0 +1,844 @@
+﻿05C10;Infirmier en soins généraux
+05C20;Infirmier de bloc opératoire
+05C30;Infirmier en anesthésie-réanimation
+05C40;Infirmier puériculteur
+05C50;Infirmier perfusionniste
+05F10;Sage-femme
+05I10;Diététicien
+05I20;Orthophoniste
+05I30;Masseur Kinésithérapeute
+05I40;Orthoptiste
+05I50;Pédicure podologue
+05I60;Ergothérapeute
+05I70;Psychomotricien
+05L10;Technicien de laboratoire médical
+05L20;Préparateur(trice) en pharmacie hospitalière
+05L30;Manipulateur en électroradiologie médicale
+05L40;Physicien médical
+05L50;Technicien(ne) circulation extracorporelle (CEC)/perfusionniste
+05L60;Dosimétriste
+05L70;Ingénieur en biologie médicale
+05L80;Bio informaticien
+05M20;Conseiller en génétique
+05M60;Conseiller conjugal
+05O10;Psychologue
+05O20;Conseiller(ère) en génétique
+05O60;Conseiller(ère) conjugal 
+05R10;Aide-soignant
+05R20;Socio-esthéticien
+05R30;Brancardier
+05R40;Assistant dentaire
+05R50;Auxiliaire de puériculture
+05R60;Agent de service mortuaire
+05R70;Responsable de service mortuaire
+05R80;Coiffeur(euse)
+05R90;Encadrant transport sanitaire
+05R95;Ambulancier
+05T10;Coordinateur de parcours en santé
+05T20;Coordinateur de prélèvement ou de transplantation d'organe
+05U10;Cadre soignant de pôle
+05U20;Encadrant d'unité de soins et d'activités paramédicales
+05U30;Cadre responsable d'unité en obstétrique
+05U40;Coordinateur(trice) parcours patient
+05X10;Formateur des professionnels de santé
+05X20;obstétrique
+05Z10;Audioprothésiste
+05Z20;Epithésiste
+05Z30;Oculariste
+05Z40;Orthopédiste-orthésiste
+05Z50;Orthoprothésiste
+05Z60;Podo-orthésiste
+05Z70;Prothésiste dentaire
+05Z80;Opticien lunetier
+10C10;Responsable socio-éducatif
+10C20;Encadrant socio-éducatif
+10C30;Responsable de crèche
+10F10;Educateur spécialisé
+10F20;Educateur jeunes enfants
+10F30;Educateur technique spécialisé
+10F40;Assistant social
+10F50;Conseiller en économie sociale et familiale
+10F60;Mandataire judiciaire à la proctection des majeurs
+10F70;Moniteur-éducateur
+10F80;Educateur sportif
+10I10;Aide médico psychologique
+10I20;Assistant familial
+10I30;Accueillant familial
+10I40;Avéjiste (aide à l'activité de vie journalière)
+10I50;Surveillant de nuit
+10I60;Auxiliaire de vie sociale
+10I70;Assistant maternel
+10L10;Chargé(e) des affaires culturelles
+10L20;Ministre du culte
+10L30;Animateur
+10L40;Educateur(trice) sportif(ve)
+10O10;Responsable pédagogique
+10O20;Enseignant(e) auprès de déficients visuels
+10O30;Enseignant(e) auprès de déficients auditives
+10P10;Psychologue
+15D10;Assistant de recherche clinique
+15D20;Technicien(ne) d'études cliniques (TEC)
+15D30;Coordinateur(trice) d'études cliniques
+15D40;Chef de projet(s) de recherche clinique
+15D50;Ingénieur(e) biologiste hospitalier
+15D60;Biostatisticien
+15D70;Bioinformaticien(ne)
+15D80;Gestionnaire de données biomédicales
+15D90;Chargé(e) de valorisation de la recherche
+15F10;Technicien d'études cliniques
+15F20;Coordinateur d'études cliniques
+15F30;Ingénieur de recherche hospitalier
+15F40;Ingénieur d'études hospitalier
+15L10;Assistant de recherche clinique
+15L20;Chef de projets de recherche clinique
+20C10;Responsable des travaux
+20C20;Responsable des services biomédicaux
+20C30;Responsable de la maintenance tous corps d'état
+20F10;Conducteur d'opérations tous corps d'état TCE
+20F20;Conducteur de travaux tous corps d'état TCE
+20F30;Dessinateur (trice) bâtiment
+20F40;Chargé(e) d'études tous corps d'état (TCE)
+20F50;Economiste de la construction
+20F60;Projeteur(euse) tous corps d'état
+20F70;Dessinateur-projetteur
+20I10;Maçon
+20I20;Encadrant maintenance Corps d'Etat secondaires
+20I30;Agent de maintenance générale des bâtiments
+20I40;Menuisier-Agenceur
+20I50;Métallier - serrurier
+20I60;Peintre en bâtiment
+20L10;Encadrant maintenance électrique / automatismes
+20L20;Electromécanicien de maintenance
+20L40;Electricien de maintenance
+20L50;Automaticien(ne) de maintenance
+20M10;Conseiller en ingénierie biomédicale
+20M20;Encadrant maintenance biomédicale
+20M30;Technicien biomédical
+20O10;Spécialiste en ingénierie biomédicale
+20O20;Encadrant maintenance biomédicale
+20O30;Technicien(ne) de maintenance des équipements biomédicaux
+20O40;Responsable d'unité biomédicale
+20R10;Conducteur(trice) d'installations thermiques
+20R20;Encadrant installations et maintenance équipements sanitaires, thermiques
+20R30;Monteur en installations et maintenance des installations sanitaires et thermiques
+20R40;Thermicien(ne) d'installation et de maintenance
+20R50;Technicien(ne) d'installation et de maintenance fluides médicaux
+20R60;climaticien(ne) d'installation et de maintenance
+20U10;Mécanicien(ne) auto
+20U20;de maintenance
+20U30;Encadrant de maintenance des équipements et matériels mécaniques
+20U40;peintre carrossier
+20U50;Mécanicien de maintenance
+20X10;Encadrant espaces verts
+20X20;Agent d'entretien des espaces verts
+25C30;Responsable de magasin
+25C40;Gestionnaire de parc
+25C50;Planificateur(trice) logistique
+25F10;Responsable des achats
+25F20;Acheteur
+25F30;Gestionnaire des marchés publics
+25F40;Responsable des marchés publics
+25I10;Responsable logistique
+25I20;Gestionnaire de stocks
+25I30;Agent de logistique
+25I40;Encadrant logistique
+25L10;Régulateur(trice) transports
+25L20;Responsable des transports
+25L30;Ambulancier(ère)
+25L40;Conducteur(trice) transport de personnes
+25M10;Responsable blanchisserie
+25M20;Agent de blanchisserie
+25M30;Lingère, couturière
+25M40;Encadrant de production blanchisserie
+25O10;Encadrant blanchisserie
+25O20;Agent de blanchisserie
+25O30;Lingère - couturière
+25R10;alimentaire
+25R20;Cuisinier
+25R30;Agent de restauration et/ou d'hôtellerie
+25R40;Conseiller hôtelier
+25R50;Maître de maison
+25R60;Intendant(e) gestionnaire de site
+25R70;Responsable restauration
+25R80;Responsable hôtelier
+30C10;gestion des risques
+30C15;Spécialiste en pharmacovigilance
+30C18;Spécialiste en hémovigilance
+30C20;gestion des risques
+30C30;Contrôleur(euse) des équipements techniques
+30C40;Chargé des relations avec les usagers
+30F10;Hygiéniste
+30F20;Encadrant bionettoyage
+30F30;Agent de bionettoyage
+30F40;Encadrant de stérilisation
+30F50;Agent de stérilisation
+30F60;Spécialiste environnement
+30F70;Gestionnaire des déchets
+30F80;Biohygiéniste
+30I10;Conseiller en prévention des risques professionnels
+30I20;Médecin du travail
+30I30;Conseiller environnement et développement durable
+30L10;Encadrant de la sécurité des personnes et des biens
+30L20;Agent de sécurité incendie
+30L30;Encadrant sécurité incendie
+30L40;Agent de prévention et de sécurité des personnes et des biens
+30L50;Gardien(ne) d'immeuble(s)
+30L60;Responsable de la sécurité
+35F05;Chargé des applications informatiques
+35F20;Développeur(euse) informatique
+35F30;Chef de projet informatique
+35I10;Urbaniste du SI
+35I20;Expert technique (réseau, système, BDD,...)
+35I30;Responsable de sécurité des systèmes d'information
+35L10;Exploitant(e) informatique
+35L20;Exploitant(e) réseau
+35L30;support informatique utilisateurs
+35L40;Exploitant technique
+40F10;Encadrant Accueil - Standard
+40F20;Agent d'accueil
+40F30;Assistant de régulation médicale
+40L10;Encadrant de département d’information médicale
+40L20;Secrétaire médical
+40L30;Encadrant des secrétariats médicaux
+40L40;Technicien d'information médicale
+40L50;Analyste des données d'activités hospitalières
+40L60;Médecin responsable de l'information médicale et de l'évaluation (DIM)
+40L70;Statisticien
+40M10;Encadrant archives
+40M20;Archiviste
+40M30;Documentaliste
+40M40;Encadrant documentaliste
+40M50;Responsable archives
+40M60;Bibliothécaire
+40O10;Encadrant archives
+40O20;Archiviste
+40O30;Documentaliste
+40O40;reprographe
+40R10;Infographiste
+40R20;Technicien(ne) audiovisuel
+40R30;Transcripteur(trice) braille
+40R40;Traducteur(trice) (dans une langue donnée)
+45C10;Directeur de la logistique et des achats
+45C20;Directeur des affaires générales
+45C30;Directeur des soins en établissement
+45C35;Directeur des finances
+45C40;Directeur des soins en institut de formation (aux métiers de la santé)
+45C45;Directeur des ressources humaines
+45C50;chef d'établissement
+45C55;Directeur de la qualité (et de la gestion des risques)
+45C60;Directeur des investissements et de la maintenance
+45C65;Directeur des affaires médicales (et de la recherche)
+45C70;Directeur des systèmes d'information
+45C75;Directeur de la communication et des relations avec les usagers
+45C80;Directeur d'établissement de santé - chef d'établissement
+45C85;projets
+45C90;Directeur d'établissement social et médico-social - chef d'établissement
+45F10;Gestionnaire paie
+45F20;Responsable des ressources humaines
+45F30;Chargé de la formation continue
+45F40;Chargé du développement des ressources humaines
+45F50;rémunérations
+45F60;Chargé des relations sociales
+45F70;Gestionnaire des ressources humaines
+45F75;Encadrant gestion des ressources humaines
+45I10;Analyste financier(ère)
+45I20;Chargé de la trésorerie et de la dette
+45I30;Responsable budgétaire et financier
+45I40;Gestionnaire de comptes fournisseurs-clients
+45I50;Comptable analytique
+45I60;Economiste de la santé
+45I70;Gestionnaire admissions frais de séjour traitement externe
+45I80;Gestionnaire comptable et achat
+45I90;Gestionnaire finances
+45L10;Contrôleur de gestion
+45L20;Conseiller en organisation
+45L30;Gestionnaire de données
+45M10;Conseiller juridique
+45M20;Chargé de valorisation de la recherche
+45O10;Conseiller(ère) juridique
+45O20;Gérant(e) de tutelle
+45O30;propriété intellectuelle
+45R10;Attaché(e) de presse
+45R20;Chargé de communication
+45R30;Journaliste d'entreprise
+45R40;Webmestre éditorial
+45R50;Technicien communication multimédia
+45S10;Gestionnaire administratif
+45S20;Agent de gestion administrative
+45S30;Secrétaire
+45S40;Responsable de gestion administrative
+45S50;Cadre administratif de pôle
+MED01;Généraliste et spécialiste de médecine générale
+MED06;Anesthésie réanimation
+MED07;Radiologie imagerie
+MED02;Médecin psychiatre
+MED03;Autre spécialiste des spécialités médicales
+MED04;Médecin biologiste
+MED05;Médecin des spécialités chirurgicales
+PHA01;Pharmacien biologiste
+PHA02;Pharmacien
+ODO01;Odontologiste (chirurgien-dentiste)
+SCIE1;Scientifique
+SPUB1;Santé publique
+40L60;Médecin responsable de l'information médicale et de l'évaluation (DIM)
+30I20;Médecin du travail
+30C18;Spécialiste en hémovigilance
+30C15;Spécialiste en pharmacovigilance
+PNPE1;Praticien n'ayant pas la plénitude d'exercice (3° de l'article l6152-1 du CSP)
+INME0;Interne en médecine (et FFI)
+INPH0;Interne en pharmacie (et FFI)
+INOD0;Interne en odontologie
+ETME0;Etudiant en médecine
+ETPH0;Etudiant en pharmacie
+ETOD0;Etudiant en odontologie
+1110;Professeur des universités-praticien hospitalier (PU-PH) sans activité libérale
+1111;Professeur des universités-praticien hospitalier (PU-PH) avec activité libérale
+1120;Maître de conférence des universités-praticien hospitalier (MCU-PH) sans activité libérale
+1121;Maître de conférence des universités-praticien hospitalier (MCU-PH) avec activité libérale
+1122;Chefs de travaux des universités-praticien hospitalier sans activité libérale (cadre d'extinction)
+1123;Chefs de travaux des universités-praticien hospitalier avec activité libérale (cadre d'extinction)
+1130;Assistant hospitalier universitaire (AHU) sans activité libérale
+1131;Assistant hospitalier universitaire (AHU) avec activité libérale
+1140;Chef de clinique des universités-assistants des hôpitaux (CCA) sans activité libérale
+1141;Chef de clinique des universités-assistants des hôpitaux (CCA) avec activité libérale
+1150;Praticien hospitalier universitaire (PHU) sans activité libérale
+1151;Praticien hospitalier universitaire (PHU) avec activité libérale
+1999;Praticiens hospitaliers «temps plein» nommés chefs de service en application des dispositions statutaires les régissant avant le 1er janvier 1985 avec activité libérale
+1998;Praticiens hospitaliers «temps plein» nommés chefs de service en application des dispositions statutaires les régissant avant le 1er janvier 1985 sans activité libérale
+1997;Praticiens hospitaliers «temps partiel» nommés chefs de service en application des dispositions statutaires les régissant avant le 1er janvier 1985
+1210;Professeur des universités-praticien hospitalier (PU-PH) des centres de soins, d'enseignements et de recherche dentaire sans activité libérale
+1211;Professeur des universités-praticien hospitalier (PU-PH) des centres de soins, d'enseignements et de recherche dentaire avec activité libérale
+1220;Maître de conférence des universités-praticien hospitalier (MCU-PH) des centres de soins, d'enseignements et de recherche dentaire sans activité libérale
+1221;Maître de conférence des universités-praticien hospitalier (MCU-PH) des centres de soins, d'enseignements et de recherche dentaire avec activité libérale
+1230;Assistant hospitalier universitaire (AHU) des centres de soins, d'enseignements et de recherche dentaire à temps partiel
+1231;Assistant hospitalier universitaire (AHU) des centres de soins, d'enseignements et de recherche dentaire à temps plein sans activité libérale
+1232;Assistant hospitalier universitaire (AHU) des centres de soins, d'enseignements et de recherche dentaire à temps plein avec activité libérale
+1233;Professeur (premier et deuxième grade) de chirurgie dentaire - odontologiste des services de consultations et de traitements dentaires (cadre d'extinction)
+1310;Professeur des universités-praticien hospitalier (PU-PH) des disciplines pharmaceutiques sans activité libérale
+1311;Professeur des universités-praticien hospitalier (PU-PH) des disciplines pharmaceutiques avec activité libérale
+1320;Maître de conférence des universités-praticien hospitalier (MCU-PH) des disciplines pharmaceutiques sans activité libérale
+1321;Maître de conférence des universités-praticien hospitalier (MCU-PH) des disciplines pharmaceutiques avec activité libérale
+1330;Assistant hospitalier universitaire (AHU) dans les disciplines biologiques, mixtes et pharmaceutiques sans activité libérale
+1331;Assistant hospitalier universitaire (AHU) dans les disciplines biologiques, mixtes et pharmaceutiques avec activité libérale
+2110;Praticien hospitalier associé à temps plein
+2120;Praticien hospitalier nommé à titre probatoire sans activité libérale
+2121;Praticien hospitalier nommé à titre probatoire avec activité libérale
+2125;Praticien hospitalier nommé à titre provisoire exerçant à temps plein
+2130;Praticien hospitalier exerçant à temps plein nommé à titre permanent sans activité libérale
+2131;Praticien hospitalier exerçant à temps plein nommé à titre permanent avec activité libérale
+2132;Praticien hospitalier et enseignant - chercheur des disciplines pharmaceutiques (autorisation de cumul)
+2220;Praticien hospitalier exerçant à temps partiel nommé à titre probatoire
+2230;Praticien hospitalier exerçant à temps partiel nommé à titre permanent
+2240;Praticien hospitalier exerçant à temps partiel nommé à titre provisoire
+2300;Assistant des hôpitaux à temps plein (généralistes et spécialistes)
+2320;Assistant des hôpitaux à temps partiel (généralistes et spécialistes)
+2400;Praticien contractuel à temps plein
+2410;Praticien contractuel à temps partiel
+2500;Praticien adjoint contractuel (PAC) à temps plein
+2510;Praticien adjoint contractuel (PAC) à temps partiel
+2600;Praticien attaché
+260A;Praticien attaché exerçant à temps plein
+260B;Praticien attaché n'exerçant pas à temps plein
+270A;Clinicien hospitalier à temps plein
+270B;Clinicien hospitalier à temps partiel
+2310;Assistant associé des hôpitaux à temps plein (généralistes et spécialistes)
+2330;Assistant associé des hôpitaux à temps partiel (généralistes et spécialistes)
+2610;Praticien attaché associé
+261A;Praticien attaché associé exerçant à temps plein
+261B;Praticien attaché associé exerçant à temps partiel
+310A;Etudiant en médecine
+310B;Etudiant en pharmacie
+310C;Etudiant en odontologie
+310E;Etudiant en maïeutique Deuxième cycle
+320A;Internes et résidents en médecine
+320B;Internes en pharmacie
+320C;Internes en odontologie
+330A;Faisant fonction d'interne (FFI) et DIS (diplômes interuniversitaires de spécialité)
+410A;Médecins coordonnateurs exerçant dans les EHPAD
+0010;Directeur général (13.03.2000)
+0012;Directeur 1ère classe (13.03.2000)
+0021;Directeur 2ème classe (13.03.2000)
+0031;Directeur 3ème classe (13.03.2000)
+0048;Directeur 4ème classe (01.07.1998) (en extinction)
+0130;Pharmacien résident (cadre d'extinction)
+0200;Directeur d'établissement social et médico-social emploi fonctionnel (r 01/2008)
+0210;Médecin de médecine préventive
+0211;Directeur d'établissement social et médico-social de hors classe (r 01/2008)
+0221;Directeur d'établissement social et médico-social de classe normale (r 01/2008)
+0260;Elève directeur d'établissement social et médico-social (r 01/2008)
+0300;Emploi fonctionnel / directeur général de chr niveau 1
+0310;Emploi fonctionnel / directeur général de chr niveau 2
+0315;Directeur Général CHU (HEE)
+0320;Emploi fonctionnel / directeur général adjoint de chr
+0325;Directeur Général CHU (HED)
+0330;Emploi fonctionnel / directeur d'établissement fonctionnel
+0340;Directeur hors classe
+0342;Directeur de classe normale
+0344;Directeur de classe exceptionnelle
+0360;Directeur d'hôpital de classe provisoire (en voie d'extinction)
+0365;Elève directeur
+0420;Attaché d'administration hors classe
+0421;Attaché principal d'administration hospitalière de 1ère classe
+0422;Attaché principal d'administration hospitalière de 2ème classe
+0423;Attaché principal d'administration hospitalière
+0430;Attaché d'administration hospitalière
+0530;Directeur d'établissement sanitaire et social emploi fonctionnel (r 01/2008)
+0540;Directeur d'établissement sanitaire et social de hors classe ((r 01/2008)
+0550;Directeur d'établissement sanitaire et social de classe normale ((r 01/2008)
+0560;Elève directeur d'établissement sanitaire et social (r 01/2008)
+0630;Emploi fonctionnel Directeur d'établissement sanitaire, social et médico-social
+0640;Directeur d'établissement sanitaire, social et médico-social de hors classe
+0650;Directeur d'établissement sanitaire, social et médico-social de classe normale (01/2008)
+0660;Elève directeur d'établissement sanitaire, social et médico-social (01/2008)
+0710;Emploi fonctionnel / Groupe I
+0720;Emploi fonctionnel / Groupe II
+0730;Emploi fonctionnel / Groupe III
+1001;Infirmiers cadres supérieurs de santé Paramédicaux
+1002;Infirmiers de bloc opératoire cadres supérieurs de santé Paramédicaux
+1003;Infirmiers anesthésistes cadres supérieurs de santé Paramédicaux
+1004;Puéricultrices cadres supérieurs de santé Paramédicaux
+1011;Pédicures-podologues cadres supérieurs de santé Paramédicaux
+1012;Masseurs-kinésithérapeutes cadres supérieurs de santé Paramédicaux
+1013;Ergothérapeutes cadres supérieurs de santé Paramédicaux
+1014;Psychomotriciens cadres supérieurs de santé Paramédicaux
+1015;Orthophonistes cadres supérieurs de santé Paramédicaux
+1016;Orthoptistes cadres supérieurs de santé Paramédicaux
+1017;Diététiciens cadres supérieurs de santé Paramédicaux
+1021;Préparateurs en pharmacie hospitalière cadres supérieurs de santé Paramédicaux
+1022;Techniciens de laboratoire médical cadres supérieurs de santé Paramédicaux
+1023;Manipulateurs d'électroradiologie médicale cadres supérieurs de santé Paramédicaux
+1251;Adjoint des cadres hospitaliers de classe normale
+1252;Adjoint des cadres hospitaliers de classe supérieure
+1253;Adjoint des cadres hospitaliers de classe exceptionnelle
+1261;Adjoint des cadres hospitaliers de classe exceptionnelle
+1262;Adjoint des cadres hospitaliers de classe supérieure
+1263;Adjoint des cadres hospitaliers de classe normale
+1312;Adjoint administratif hospitalier de 1ère classe e5
+1313;Adjoint administratif hospitalier principal e6
+1314;Adjoint administratif
+1315;Adjoint administratif hospitalier principal de 1ère classe
+1316;Adjoint administratif hospitalier principal de 2ème classe
+1317;Adjoint administratif principal de 2e classe
+1326;Adjoint administratif hospitalier de 1ère classe
+1327;Adjoint administratif principal de 1re classe
+1332;Chef de standard téléphonique e5
+1333;Chef de standard téléphonique principal e6
+1353;Secrétaire médicale de classe exceptionnelle
+1361;Assistant médico administratif de classe exceptionnelle
+1362;Assistant médico administratif de classe supérieure
+1363;Assistant médico administratif de classe normale
+1370;Aumônier
+1412;Adjoint administratif hospitalier de 2ème classe e4
+1423;Adjoint administratif hospitalier de 2ème classe
+1437;Standardiste (r e2 + e3)
+1451;Secrétaire médicale de classe normale
+1461;Secrétaire médicale de classe supérieure
+1506;Agent administratif (r e2 + e3)
+1561;Permanencier auxilliaire de régulation médicale e4 (cadre d'extinction)
+1562;Permanencier auxilliaire de régulation médicale principal e5 (cadre d'extinction)
+1563;Permanencier auxilliaire de régulation médicale chef e6 (cadre d'extinction)
+1568;Permanencier auxilliaire de régulation médicale de 2ème classe (cadre d'extinction)
+1569;Permanencier auxiliaire de régulation médicale de 1re classe (cadre d'extinction)
+1611;Directeurs des soins coordonnateur général de 1ère classe
+1612;Directeurs des soins services infirmiers de 1ère classe
+1613;Directeur des soins activités rééducation de 1ère classe
+1614;Directeur des soins activités médico-technique de 1ère classe
+1615;Directeur des soins directeur d'institut de formation de cadre de 1ère classe
+1616;Directeur des soins directeur d'institut de formation de 1ère classe
+1621;Directeurs des soins coordonnateur général de 2ème classe
+1622;Directeurs des soins services infirmiers de 2ème classe
+1623;Directeur des soins activités rééducation de 2ème classe
+1624;Directeur des soins activités médico-technique de 2ème classe
+1625;Directeur des soins directeur d'institut de formation de cadre de 2ème classe
+1626;Directeur des soins directeur d'institut de formation de 2ème classe
+1627;Emploi fonct. Directeur des soins, coordonnateur gén. Act. soins infirmiers, rééducation, médico-techniques Gpe II
+1628;Emploi fonct. Directeur des soins coordonnateur gén. Act. formation ds un ou pls ou gpe d’instituts de formation Gpe II
+1629;Emploi fonct. Directeur des soins, coordonnateur gén. Act. soins infirmiers, rééducation, médico-techniques Gpe I
+1630;Directeur des soins Cl normale, coordination gén. Act. soins infirmiers, rééducation, médico-techniques
+1631;Directeur des soins Cl normale, direction d’un institut de formation ou coordination gen. de pls instituts de formation
+1632;Directeur des soins hors classe, coordination générale Act. soins infirmiers, rééducation, médico-techniques
+1633;Directeur des soins hors classe, direction d’un institut de formation ou coordination gén. de pls instituts de formation
+1801;Infirmiers cadres de santé Paramédicaux
+1802;Infirmiers de bloc opératoire cadres de santé Paramédicaux
+1803;Infirmiers anesthésistes cadres de santé Paramédicaux
+1804;Puéricultrices cadres de santé Paramédicaux
+1811;Pédicures-podologues cadres de santé Paramédicaux
+1812;Masseurs-kinésithérapeutes cadres de santé Paramédicaux
+1813;Ergothérapeutes cadres de santé Paramédicaux
+1814;Psychomotriciens cadres de santé Paramédicaux
+1815;Orthophonistes cadres de santé Paramédicaux
+1816;Orthoptistes cadres de santé Paramédicaux
+1817;Diététiciens cadres de santé Paramédicaux
+1821;Préparateurs en pharmacie hospitalière cadres de santé Paramédicaux
+1822;Techniciens de laboratoire médical cadres de santé Paramédicaux
+1823;Manipulateurs d'électroradiologie médicale cadres de santé Paramédicaux
+2001;Infirmier cadre supérieur de santé
+2002;Infirmier de bloc opératoire cadre supérieur de santé
+2003;Infirmier anesthésiste cadre supérieur de santé
+2004;Puéricultrice cadre supérieur de santé
+2011;Pédicure podologue cadre supérieur de santé
+2012;Masseur-kinésithérapeute cadre supérieur de santé
+2013;Ergothérapeute cadre supérieur de santé
+2014;Psychomotricien cadre supérieur de santé
+2015;Orthophoniste cadre supérieur de santé
+2016;Orthoptiste cadre supérieur de santé
+2017;Dietéticien cadre supérieur de santé
+2021;Préparateur en pharmacie hospitalière cadre supérieur de santé
+2022;Technicien de laboratoire cadre supérieur de santé
+2023;Manipulateur d'électroradiologie médicale cadre supérieur de santé
+2041;Infirmier cadre supérieur de santé, moniteur
+2042;Infirmier de bloc opératoire cadre supérieur de santé, moniteur
+2043;Infirmier anesthésiste cadre supérieur de la santé, moniteur
+2044;Puéricultrice cadre supérieur de la santé, monitrice
+2051;Pédicure-podologue, cadre supérieur de santé, moniteur
+2052;Masseur-kinésithérapeute cadre supérieur de santé, moniteur
+2053;Ergothérapeute cadre supérieur de santé, moniteur
+2054;Psychomotricien cadre supérieur de santé, moniteur
+2055;Orthophoniste cadre supérieur de santé, moniteur
+2056;Orthoptiste cadre supérieur de santé, moniteur
+2057;Diététicien cadre supérieur de santé, moniteur
+2061;Préparateur en pharmacie hospitalière cadre supérieur de santé, moniteur
+2062;Technicien de laboratoire cadre supérieur de santé, moniteur
+2063;Manipulateur d'électroradiologie cadre supérieur de santé, moniteur
+2137;Directrice d'école préparant au diplôme d'etat de sage-femme
+2138;Directrice d'école préparant au certificat cadre sage-femme
+2154;Grade 1 ISGS Infirmier en soins généraux (DE)
+2155;Grade 1 ISGS Infirmier en soins généraux (Psychiatrique)
+2164;Grade 2 ISGS Infirmier en soins généraux (DE)
+2165;Grade 2 ISGS Infirmier en soins généraux (Psychiatrique)
+2212;Sage-femme cadre supérieur
+2217;Sage-femme cadre supérieur, monitrice d'école de cadres
+2221;sages-femmes des hôpitaux du premier grade
+2223;sages-femmes des hôpitaux du second grade
+2224;sages-femmes des hôpitaux du second grade, directeur de structure de formation
+2228;coordonnateur en maïeutique, assistant responsable d'un pôle obstétrique
+2229;coordonnateur en maïeutique
+2233;coordonnateur en maïeutique, directeur de structure de formation
+2253;Préparateur en pharmacie hospitalière de classe normale
+2254;Préparateur en pharmacie hospitalière de classe supérieure
+2257;Préparateur en pharmacie hospitalière de classe normale
+2258;Préparateur en pharmacie hospitalière de classe supérieure
+2319;Sage-femme cadre
+2334;Sage-femme de classe normale
+2335;Sage-femme de classe supérieure
+2336;Sage-femme cadre, monitrice d'école sf
+2403;Technicien de laboratoire médical de classe normale
+2404;Manipulateur d'électroradiologie médicale de classe normale (cadre d'extinction)
+2430;Infirmier anesthésiste d.e de classe normale
+2432;Infirmier d.e de classe normale (cadre d'extinction)
+2437;Infirmier psychiatrique de classe normale (cadre d'extinction)
+2440;Puéricultrice d.e de classe normale
+2450;Pédicure-podologue de classe normale
+2452;Masseur-kinesithérapeute de classe normale
+2453;Ergotherapeute de classe normale
+2454;Psychomotricien de classe normale
+2455;Orthophoniste de classe normale
+2456;Orthoptiste de classe normale
+2457;Dietéticien de classe normale
+2458;Technicien de laboratoire de classe normale
+2459;Manipulateur d'électroradiologie médicale de classe normale
+2460;Infirmier de bloc opératoire de classe normale
+2601;Cadre socio-éducatif
+2602;Cadre socio-éducatif
+2603;Cadre supérieur socio-éducatif
+2604;Assistant socio-éducatif - éducateur spécialisé de classe normale du premier grade
+2605;Assistant socio-éducatif - assistant de service social de classe normale du premier grade
+2606;Cadre socio-éducatif
+2607;Cadre supérieur socio-éducatif
+2608;Cadre socio-éducatif de classe exceptionnelle
+2611;Assistant socio-éducatif - éducateur spécialisé
+2612;Assistant socio-éducatif - assistant de service social
+2613;Assistant socio-éducatif - éducateur spécialisé
+2614;Assistant socio-éducatif - assistant de service social
+2615;Assistant socio-éducatif principal - éducateur spécialisé
+2616;Assistant socio-éducatif principal - assistant de service social
+2617;Assistant socio-éducatif - éducateur spécialisé de classe supérieure du premier grade
+2618;Assistant socio-éducatif - assistant de service social de classe supérieure du premier grade
+2619;Assistant socio-éducatif - éducateur spécialisé du second grade
+2620;Assistant socio-éducatif - assistant de service social du second grade
+2621;Conseiller en économie sociale et familiale
+2622;Conseiller en économie sociale et familiale principal
+2623;Conseiller en économie sociale et familiale de classe normale
+2624;Conseiller en économie sociale et familiale de classe supérieure
+2625;Conseiller en économie sociale et familiale de classe normale du premier grade
+2626;Conseiller en économie sociale et familiale de classe supérieure du premier grade
+2627;Conseiller en économie sociale et familiale du second grade
+2631;Animateur
+2632;Animateur
+2633;Animateur principal de 2e classe
+2634;Animateur principal de 1re classe
+2641;Educateur technique spécialisé
+2642;Educateur technique spécialisé de classe normale
+2643;Educateur technique spécialisé de classe supérieure
+2644;Educateur technique spécialisé de classe normale
+2645;Educateur technique spécialisé de classe supérieure
+2646;Educateur technique spécialisé de classe normale du premier grade
+2647;Educateur technique spécialisé de classe supérieure du premier grade
+2648;Educateur technique spécialisé du second grade
+2649;Educateur de jeunes enfants de classe normale
+2650;Educateur de jeunes enfants de classe supérieure
+2657;Educateur de jeunes enfants de classe normale
+2658;Educateur de jeunes enfants de classe supérieure
+2659;Educateur de jeunes enfants de classe exceptionnelle
+2661;Moniteur-éducateur
+2662;Moniteur-éducateur
+2663;Moniteur-éducateur principal
+2665;Moniteur d'atelier (cadre d'extinction)
+2670;Educateur de jeunes enfants de classe normale
+2671;Educateur de jeunes enfants de classe supérieure
+2672;Educateur de jeunes enfants de classe normale du premier grade
+2673;Educateur de jeunes enfants de classe supérieure du premier grade
+2674;Educateur de jeunes enfants du second grade
+2700;Infirmier anesthésiste d.e de classe supérieure
+2717;Infirmier de bloc opératoire de classe supérieure
+2719;Puéricultrice d.e de classe supérieure
+2724;Ergothérapeute de classe supérieure
+2730;Orthophoniste de classe supérieure
+2731;Psychomotricien de classe supérieure
+2732;Masseur kinésithérapeute de classe supérieure
+2734;Pédicure-podologue de classe supérieure
+2749;Manipulateur d'électroradiologie médicale de classe supérieure
+2753;Infirmier d.e de classe supérieure (cadre d'extinction)
+2758;Infirmier psychiatrique de classe supérieure (cadre d'extinction)
+2760;Manipulateur d'électroradiologie médicale de classe normale
+2761;Technicien de laboratoire médical de classe supérieure
+2762;Manipulateur d'électroradiologie médicale de classe supérieure (cadre d'extinction)
+2764;Manipulateur d'électroradiologie médicale de classe supérieure
+2766;Orthoptiste de classe supérieure
+2767;Dietéticien de classe supérieure
+2768;Technicien de laboratoire de classe supérieure
+2801;Infirmier cadre de santé
+2802;Infirmier de bloc opératoire cadre de santé
+2803;Infirmier anesthésiste cadre de santé
+2804;Puéricultrice cadre de santé
+2811;Pédicure-podologue cadre de santé
+2812;Masseur kinésithérapeute, cadre de santé
+2813;Ergothérapeute , cadre de santé
+2814;Psychomotricien, cadre de santé
+2815;Orthophoniste cadre de santé
+2816;Orthoptiste cadre de santé
+2817;Diététicien cadre de santé
+2821;Préparateur en pharmacie hospitalière cadre de santé
+2822;Technicien de laboratoire cadre de santé
+2823;Manipulateur d'électroradiologie médicale cadre de santé
+2841;Infirmier cadre de santé, moniteur
+2842;Infirmier de bloc opératoire cadre de santé, moniteur
+2843;Infirmier anesthésiste cadre de santé, moniteur
+2844;Puéricultrice cadre de santé, monitrice
+2851;Pédicure-podologue cadre de santé, moniteur
+2852;Masseur-kinésithérapeute cadre de santé, moniteur
+2853;Ergothérapeute cadre de santé, moniteur
+2854;Psychomotricien cadre de santé, moniteur
+2855;Orthophoniste cadre de santé, moniteur
+2856;Orthoptiste cadre de santé, moniteur
+2857;Diététicien cadre de santé, moniteur
+2861;Préparateur en pharmacie hospitalière cadre de santé, moniteur
+2862;Technicien de laboratoire cadre de santé, moniteur
+2863;Manipulateur d'électroradiologie médicale cadre de santé, moniteur
+2911;Elève infirmier de / formation professionnelle
+2921;Elève éducateur spécialisé
+2922;Elève aide soignante / formation professionnelle
+2925;Elève stagiaire éducateur spécialisé
+2931;Elève moniteur éducateur
+2940;Grade 2 ISGS  Infirmier de bloc opératoire
+2941;Pédicure-podologue de classe normale (cadre d'extinction)
+2942;Masseur-kinesithérapeute de classe normale (cadre d'extinction)
+2943;Ergotherapeute de classe normale (cadre d'extinction)
+2944;Psychomotricien de classe normale (cadre d'extinction)
+2945;Orthophoniste de classe normale (cadre d'extinction)
+2946;Orthoptiste de classe normale (cadre d'extinction)
+2947;Dietéticien de classe normale
+2948;Grade 3 ISGS  Infirmier de bloc opératoire
+2949;Ergotherapeute de classe normale
+2950;Grade 2 ISGS  Puéricultrice
+2951;Pédicure-podologue de classe supérieure (cadre d'extinction)
+2952;Masseur kinésithérapeute de classe supérieure (cadre d'extinction)
+2953;Ergothérapeute de classe supérieure (cadre d'extinction)
+2954;Psychomotricien de classe supérieure (cadre d'extinction)
+2955;Orthophoniste de classe supérieure (cadre d'extinction)
+2956;Orthoptiste de classe supérieure (cadre d'extinction)
+2957;Dietéticien de classe supérieure
+2958;Grade 3 ISGS  Puéricultrice
+2959;Ergothérapeute de classe supérieure
+2960;Grade 3 ISGS  Infirmier anesthésiste
+2961;Infirmer anesthésiste Grade 1
+2962;Infirmer anesthésiste Grade 2
+2963;Pédicure-podologue de classe normale
+2964;Orthoptiste de classe normale
+2965;Grade 4 ISGS  Infirmier anesthésiste
+2966;Masseur-kinesithérapeute de classe normale
+2967;Orthophoniste de classe normale
+2968;Psychomotricien de classe normale
+2973;Pédicure-podologue de classe supérieure
+2974;Orthoptiste de classe supérieure
+2976;Masseur kinésithérapeute de classe supérieure
+2977;Orthophoniste de classe supérieure
+2978;Psychomotricien de classe supérieure
+3001;Aide soignant de classe normale e4
+3002;Aide soignant de classe supérieure e5
+3003;Aide soignant de classe exceptionnelle e6
+3005;Auxiliaire de puériculture de classe normale e4
+3006;Auxiliaire de puériculture de classe supérieure e5
+3007;Auxiliaire de puériculture de classe exceptionnelle e6
+3008;Aide médico-psychologique de classe normale e4
+3009;Aide médico-psychologique de classe supérieure e5
+3010;Aide médico-psychologique de classe exceptionnelle e6
+3021;Aide soignant
+3022;Aide soignant principal
+3025;Auxiliaire de puériculture
+3026;Auxiliaire de puériculture principal
+3028;Aides médico-psychologiques et accompagnants éducatifs et sociaux
+3029;Aides médico-psychologiques et accompagnants éducatifs et sociaux principaux
+3112;Aide préparateur en pharmacie e5 (cadre d'extinction)
+3114;Aide technique de laboratoire e5 (cadre d'extinction)
+3115;Aide technique d'électroradiologie e5 (cadre d'extinction)
+3121;Aide soignant de classe normale e3
+3122;Aide soignant de classe supérieure e4
+3123;Aide soignant de classe exceptionnelle e5
+3125;Auxiliaire de puériculture de classe normale e3
+3126;Auxiliaire de puériculture de classe supérieure e4
+3127;Auxiliaire de puériculture de classe exceptionnelle e5
+3128;Aide médico-psychologique de classe normale e3
+3129;Aide médico-psychologique de classe supérieure e4
+3130;Aide médico-psychologique de classe exceptionnelle e5
+3132;Aide de pharmacie de classe supérieure e4 (cadre d'extinction)
+3133;Aide de laboratoire de classe supérieure e4 (cadre d'extinction)
+3141;Aide de pharmacie de classe normale e3 (cadre d'extinction)
+3143;Aide de laboratoire de classe normale e3 (cadre d'extinction)
+3150;Aide de laboratoire de classe normale (cadre d'extinction)
+3152;Aide de laboratoire de classe supérieure (cadre d'extinction)
+3153;Aide de pharmacie de classe normale (cadre d'extinction)
+3155;Aide de pharmacie de classe supérieure (cadre d'extinction)
+3156;Aide d'électroradiologie de classe normale (cadre d'extinction)
+3157;Aide d'électroradiologie de classe supérieure (cadre d'extinction)
+3165;Aide d'électroradiologie de classe normale e3 (cadre d'extinction)
+3166;Aide d'électroradiologie de classe supérieure e4 (cadre d'extinction)
+3251;Agent des services hospitaliers qualifié ( r )
+3256;Agent des services hospitaliers qualifié de classe normale
+3257;Agent des services hospitaliers qualifié de classe supérieure
+3258;Agent des services hospitaliers qualifié de classe supérieure
+3259;Agent des services hospitaliers qualifié de classe normale
+4103;Agent chef de 1ère catégorie
+4104;Agent chef de classe exceptionnelle
+4107;Agent chef de 2ème catégorie
+4108;Agent chef de 1ère catégorie
+4109;Agent chef de 2ème catégorie
+4110;Agent de maîtrise
+4112;Contremaître principal
+4114;Agent de maîtrise principal
+4115;Agent de maîtrise e5
+4116;Agent de maîtrise principal e6
+4122;Contremaître e5
+4132;Agent technique d'entretien e5
+4133;Agent technique d'entretien principal e6
+4142;Chef de garage e5
+4145;Chef de garage principal e6
+4200;Agent d'entretien qualifié
+4202;Maitre ouvrier e5
+4203;Ouvrier principal de 2ème classe
+4205;Ouvrier principal de 1ère classe
+4207;Maitre ouvrier e5
+4222;Maitre ouvrier principal e6
+4223;Maitre ouvrier principal e6
+4301;Ouvrier professionnel spécialisé
+4302;Ouvrier professionnel qualifié
+4304;Ouvrier professionnel qualifié e4
+4306;Buandier spécialisé
+4307;Buandier qualifié
+4309;Buandier qualifié e4
+4323;Conducteur ambulancier de 2ème catégorie e4
+4324;Conducteur ambulancier de 1ère catégorie e5
+4326;Conducteur d'automobile de 1ère catégorie e3
+4327;Conducteur d'automobile hors catégorie e4
+4328;Conducteur ambulancier hors catégorie e6
+4330;Conducteur ambulancier
+4340;Conducteur ambulancier principal
+4342;Agent de service mortuaire et de désinfection de 2ème catégorie
+4343;Agent de service mortuaire et de désinfection de 1ère catégorie
+4348;Agent de service mortuaire et de désinfection de 1ère catégorie e4 (cadre d'extinction)
+4433;Agent d'entretien qualifié
+4437;Agent d'entretien qualifié e3
+5171;Directeur de crih - circulaire 1986
+5176;Responsable d'exploitation - circulaire 1986
+5179;Spécialiste en organisation ou technicien en organisation - circ 1986
+5182;Chef de projet - circulaire 1986
+5183;Chef de projet en organisation - circulaire 1986
+5185;Ingenieur en organisation - circulaire 1986
+5272;Analyste - circulaire 1986
+5274;Chef de salle - circulaire 1986
+5276;Gestionnaire de réseau - circulaire 1986
+5277;Technicien de maintenance ou imputeur de maintenance - circ 1986
+5279;Ingénieur système - circulaire 1986
+5315;Analyste programmeur - circulaire 1986
+5326;Programmeur système - circulaire 1986
+5327;Programmeur - circulaire 1986
+5328;Pupitreur - circulaire 1986
+5329;Préparateur de travaux - circulaire 1986
+5372;Chef de centre informatique, hopitaux - de 1000 lits - circ1986
+5580;Responsable en organisation chr - circulaire 1986
+5610;Radiophysicien classe i
+5620;Radiophysicien classe ii
+5630;Radiophysicien chef d ' unité
+5640;Radiophysicien
+5710;Ingénieur subdivisionnaire
+5715;Ingénieur hospitalier
+5720;Ingénieur en chef
+5725;Ingénieur hospitalier principal
+5730;Ingénieur en chef de 1ère catégorie seconde classe
+5735;Ingénieur hospitalier en chef de classe normale
+5740;Ingénieur en chef de 1ère catégorie première classe
+5745;Ingénieur hospitalier en chef de classe exceptionnelle
+5750;Ingénieur en chef de 1ère catégorie hors classe
+5760;Ingénieur général
+5845;Technicien supérieur hospitalier
+5846;Technicien hospitalier
+5855;Technicien supérieur hospitalier principal
+5856;Technicien supérieur hospitalier de 2ème classe
+5865;Technicien supérieur hospitalier chef
+5866;Technicien supérieur hospitalier de 1ère classe
+5910;Dessinateur e4
+5916;Dessinateur (cadre d'extinction)
+5920;Dessinateur chef de groupe e5
+5926;Dessinateur principal (cadre d'extinction)
+5930;Dessinateur principal e6
+6012;Psychologue de classe normale
+6013;Psychologue hors classe
+13Z0;Aumônier
+42Z0;Buandier AEQ
+42Z3;Buandier Principal de 2ème classe
+42Z5;Buandier Principal de 1ère classe
+43Z8;Agent de service mortuaire et de désinfection de 1ère catégorie (cadre d'extinction)
+ADM1;Autres personnels administratifs
+D100;Famille d'accueil
+D200;Apprenti
+D300;Contrat d'insertion rma
+D301;Contrat emploi jeune
+D310;Contrat d'accompagnement dans l'emploi (cae)
+D320;Contrat d'avenir (cav)
+D330;Contrat aidé départemental
+D340;Contrat aidé expérimental
+D350;Contrat unique d'insertion
+D360;Contrat d'avenir
+D400;Formateur occasionnel
+D500;Assistante maternelle
+D550;Travailleur handicapé c.a.t
+D820;Contrat emploi solidarité (ces)
+D821;Contrat emploi consolidé (cec)
+D830;Contrat retour à l'emploi
+D999;Autres contrats aidés
+DIR1;Autres personnels de direction
+E100;Etudiant en soins infirmiers
+E201;Etudiant sage femme
+E202;Etudiant sage femme Premier Cycle
+E300;Elève manipulateur d'électroradiologie médicale
+E301;Elève ergothérapeute
+E302;Elève masseur kinésithérapeute
+ECO1;Autres personnels des écoles
+INF1;Autres personnels informaticiens
+MED1;Autres personnels des services soignants
+MED2;Autres personnels des services médico-techniques
+OUV1;Autres personnels ouvriers
+REE1;Autres personnels de rééducation
+SAG1;Autres sages-femmes
+SOC1;Autres personnels socio-éducatifs
+TEC1;Autres personnels des services techniques
