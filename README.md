@@ -17,3 +17,16 @@ Script Powershell extrayant les données d’annuaire de l’*Active Directory*.
 
 - refpolesuf.csv : fichier contenant les poles et unités fonctionelles
 - codesdgos.csv : fichier compilant les codes des métiers de la DGOS
+
+### fichiers créés
+
+- compo.csv
+- utils.csv
+- contacts.csv
+- local.csv
+- orga.csv
+- sociétés.csv
+- annexes title.csv
+- annexes personalTitle.csv
+- annexes department.csv
+- annexes comptes incohérents.csv
